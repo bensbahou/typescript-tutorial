@@ -16,4 +16,4 @@ const circ = (diameter: number) => {
 };
 
 // console.log(area('hello'));
-console.log(circ(7.5));
+console.log(circ(7.6));
